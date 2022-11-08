@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ridowayne
 - 👀 I’m interested in Backend Web development
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently working with Node Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at hassanrilwan12@gmail.com/+2349074452956
 
